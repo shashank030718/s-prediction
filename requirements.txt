@@ -1,7 +1,7 @@
-streamlit==1.22.0
-yfinance==0.2.61
-pandas==2.0.2
+streamlit==1.46.1
+yfinance==0.2.65
+pandas==2.3.0
 matplotlib==3.10.3
 scikit-learn==1.7.0
-numpy==1.26.4
-requests==2.34.2
+numpy==2.2.6
+requests==2.32.4
